@@ -1,0 +1,54 @@
+﻿  DIP.cpp
+c:\vsb\ing\dzo\dip\dip\dip.cpp(4): warning C4603: '_USE_MATH_DEFINES': macro is not defined or definition is different after precompiled header use
+  c:\vsb\ing\dzo\dip\dip\dip.cpp(4): note: Add macro to precompiled header instead of defining here
+  c:\vsb\ing\dzo\dip\dip\dip.cpp(5): note: use of precompiled header
+c:\vsb\ing\dzo\dip\dip\dip.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+c:\vsb\ing\dzo\dip\dip\dip.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+c:\vsb\ing\dzo\dip\dip\dip.cpp(93): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\vsb\ing\dzo\dip\dip\dip.cpp(139): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\vsb\ing\dzo\dip\dip\dip.cpp(148): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\vsb\ing\dzo\dip\dip\dip.cpp(149): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\vsb\ing\dzo\dip\dip\dip.cpp(150): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\vsb\ing\dzo\dip\dip\dip.cpp(126): warning C4101: 'lval': unreferenced local variable
+c:\vsb\ing\dzo\dip\dip\dip.cpp(166): warning C4101: 'mask': unreferenced local variable
+c:\vsb\ing\dzo\dip\dip\dip.cpp(165): warning C4101: 'lval': unreferenced local variable
+c:\vsb\ing\dzo\dip\dip\dip.cpp(203): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\vsb\ing\dzo\dip\dip\dip.cpp(212): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\vsb\ing\dzo\dip\dip\dip.cpp(213): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\vsb\ing\dzo\dip\dip\dip.cpp(214): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\vsb\ing\dzo\dip\dip\dip.cpp(185): warning C4101: 'lval': unreferenced local variable
+c:\vsb\ing\dzo\dip\dip\dip.cpp(393): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+c:\vsb\ing\dzo\dip\dip\dip.cpp(394): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  DIP.vcxproj -> C:\VSB\ING\DZO\DIP\x64\Debug\DIP.exe
