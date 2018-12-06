@@ -2,69 +2,69 @@
 c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(4): warning C4603: '_USE_MATH_DEFINES': macro is not defined or definition is different after precompiled header use
   c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(4): note: Add macro to precompiled header instead of defining here
   c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(5): note: use of precompiled header
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(107): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(112): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'uchar', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(117): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(158): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(167): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(163): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(172): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(168): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(173): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(169): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(174): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(145): warning C4101: 'lval': unreferenced local variable
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(194): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(204): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(150): warning C4101: 'lval': unreferenced local variable
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(199): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(209): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(181): warning C4101: 'lval': unreferenced local variable
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(220): warning C4101: 'mask': unreferenced local variable
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(219): warning C4101: 'lval': unreferenced local variable
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(257): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(266): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(186): warning C4101: 'lval': unreferenced local variable
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(225): warning C4101: 'mask': unreferenced local variable
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(224): warning C4101: 'lval': unreferenced local variable
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(262): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(271): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(267): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(272): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(268): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(273): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(239): warning C4101: 'lval': unreferenced local variable
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(448): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(244): warning C4101: 'lval': unreferenced local variable
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(453): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
           with
           [
               _Tp=double
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(449): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(632): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(675): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(454): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(637): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(680): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
           ]
-c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(710): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+c:\git\vsb-git\vsb-dzo\dzo\dip\dip\dip.cpp(715): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
           with
           [
               _Tp=uchar
